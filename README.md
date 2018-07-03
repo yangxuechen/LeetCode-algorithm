@@ -20,3 +20,12 @@ LeetCode上算法题的代码
 |  169 | [求众数](https://leetcode-cn.com/problems/majority-element/description/)  | [LeetCode169.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/89d532cb622dc99c5f1c72fc0826f7b70670e97f)  |
 |  171 | [Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/description/)  | [LeetCode171.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/4d5309c8df4b760de1a825bab36ac2c35a8b21bb)  |
 |  172 | [阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/description/)  | [LeetCode172.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/361bbf163698ae6953bcc03492dcbdee74fe4637)  |
+|198  | [打家劫舍](https://leetcode-cn.com/problems/house-robber/description/) |  [LeetCode198.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/aac7fd1f7da147c349a71f56ca4a3416c0cd5bda)  |
+|202  | [快乐数](https://leetcode-cn.com/problems/happy-number/description/) |  [LeetCode202.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/f64204eb9a8642c777001b92a5c18ed8d69f8454)  |
+|203  | [删除链表中的节点](https://leetcode-cn.com/problems/remove-linked-list-elements/description/) |  [LeetCode203.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/bd9fe62cd01a9455efd7225300bd3cfc19189755)  |
+|206  | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/description/) |  [LeetCode206.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/b207b784a32cad619f29cf0b1a6d21781940f939)  |
+|217  | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/description/) |  [LeetCode217.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/96469ab96b5bd0362a266685674246c0d3010ac7)  |
+|225  | [用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/description/) |  [LeetCode225.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/5188f8abec0aee840cd70224e0369273224a6bca)  |
+|232  | [用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/description/) |  [LeetCode232.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/0b882199327dd5a34040a84290157e056f7c457d)  |
+|234  | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/description/) |  [LeetCode234.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/133db2ba1bb73bbc87cbc7b4106c1d702fa2b115)  |
+|242  | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/description/) |  [LeetCode242.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/562b18fc8020f764b8872553f065fcd226868bc4)  |
