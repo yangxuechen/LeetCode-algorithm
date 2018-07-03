@@ -39,3 +39,13 @@ LeetCode上算法题的代码
 |349 | [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/description/) | [LeetCode349.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/d3b67a1ac72376514fd590fe5f192933a38004ef) |
 |350 | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/description/) | [LeetCode350.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/61661bdc08d957a7f543c4243be8f264833c837c) |
 |371 | [两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/description/) | [LeetCode371.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/219c82c7139bd880aa3cbb91f69989b3d50d0230) |
+|383 | [赎金信](https://leetcode-cn.com/problems/ransom-note/description/) | [LeetCode383.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/9a4b7071f4424e692cae49b1eb1b5bb7f3079198)  |
+|387 | [字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/description/) | [LeetCode387.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/2501f6942858511138b2320a823e546c2ef10744)  |
+|389 | [找不同](https://leetcode-cn.com/problems/find-the-difference/description/) | [LeetCode389.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/952ab5722e95f13de50f3211f078cbaf2de5fdc1)  |
+|412 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/description/) | [LeetCode412.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/33739f075bc0a9ead243641a26b7137ed0f6db22)  |
+|434 | [字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/description/) | [LeetCode434.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/87ba1e8d63255848cdaf6f1a508fffa49000cc82)  |
+|448 | [找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [LeetCode448.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/7a7cae735abdc11b356eab90224b4a8d92debf53)  |
+|459 | [重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern/description/) | [LeetCode459.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/15bd6bd808f3bde15b0e5c9bea75614415f4fc1f)  |
+|461 | [汉明距离](https://leetcode-cn.com/problems/hamming-distance/description/) | [LeetCode461.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/3b61f5cb1448b7a2e564c15929ffbd4d17a318df)  |
+|463 | [岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/description/) | [LeetCode463.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/a72891b0fa9e77f365d66b5db4b5f8551fb8a5fe)  |
+|476 | [数字的补数](https://leetcode-cn.com/problems/number-complement/description/) | [LeetCode476.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/eed37537de91621b8c9c573c1e272d97ec989296)  |
