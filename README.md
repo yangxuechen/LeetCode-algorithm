@@ -29,3 +29,13 @@ LeetCode上算法题的代码
 |232  | [用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/description/) |  [LeetCode232.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/0b882199327dd5a34040a84290157e056f7c457d)  |
 |234  | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/description/) |  [LeetCode234.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/133db2ba1bb73bbc87cbc7b4106c1d702fa2b115)  |
 |242  | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/description/) |  [LeetCode242.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/562b18fc8020f764b8872553f065fcd226868bc4)  |
+|258 | [各位相加](https://leetcode-cn.com/problems/add-digits/description/) | [LeetCode258.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/d18b7ccd88d86208d7104bf416d28ed8ce6dd599) |
+|268 | [缺失数字](https://leetcode-cn.com/problems/missing-number/description/) | [LeetCode268.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/f14773fa9c6317fd4285aa5ef89c2a2b48333756) |
+|283 | [移动零](https://leetcode-cn.com/problems/move-zeroes/description/) | [LeetCode283.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/e6e5f881831fab2544f0d21d46e4c9fe2fd38623) |
+|290 | [单词模式](https://leetcode-cn.com/problems/word-pattern/description/) | [LeetCode290.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/591cf43d1a2c8307b6a9c77079a99e56c4cb8aea) |
+|292 | [Nim游戏](https://leetcode-cn.com/problems/nim-game/description/) | [LeetCode292.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/68264d28a5d8f54f7d5d556d3e331f1737b7ab81) |
+|344 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/description/) | [LeetCode344.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/c9aead6ea327cb21d1d02b90550beaf8006bc107) |
+|345 | [反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/description/) | [LeetCode345.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/4299ec0f7a5f8ca2f0c6f0e8d41eec0a4e2a4d5b) |
+|349 | [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/description/) | [LeetCode349.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/d3b67a1ac72376514fd590fe5f192933a38004ef) |
+|350 | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/description/) | [LeetCode350.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/61661bdc08d957a7f543c4243be8f264833c837c) |
+|371 | [两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/description/) | [LeetCode371.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/219c82c7139bd880aa3cbb91f69989b3d50d0230) |
