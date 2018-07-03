@@ -49,3 +49,23 @@ LeetCode上算法题的代码
 |461 | [汉明距离](https://leetcode-cn.com/problems/hamming-distance/description/) | [LeetCode461.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/3b61f5cb1448b7a2e564c15929ffbd4d17a318df)  |
 |463 | [岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/description/) | [LeetCode463.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/a72891b0fa9e77f365d66b5db4b5f8551fb8a5fe)  |
 |476 | [数字的补数](https://leetcode-cn.com/problems/number-complement/description/) | [LeetCode476.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/eed37537de91621b8c9c573c1e272d97ec989296)  |
+|  485 | [最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/description/)  | [LeetCode485.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode485.java)  |
+|  492 | [构造矩形](https://leetcode-cn.com/problems/construct-the-rectangle/description/)  | [LeetCode492.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode492.java)  |
+|  496 | [下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/description/)  | [LeetCode496.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode496.java)  |
+|  500 | [键盘行](https://leetcode-cn.com/problems/keyboard-row/description/)  | [LeetCode500.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode500.java)  |
+|  504 | [七进制数](https://leetcode-cn.com/problems/base-7/description/)  | [LeetCode504.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode504.java)  |
+|  506 | [相对名次](https://leetcode-cn.com/problems/relative-ranks/description/)  | [LeetCode506.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode506.java)  |
+|  520 | [检测大写字母](https://leetcode-cn.com/problems/detect-capital/description/)  | [LeetCode520.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode520.java)  |
+|  551 | [学生出勤纪录 I](https://leetcode-cn.com/problems/student-attendance-record-i/description/)  | [LeetCode551.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode551.java)  |
+|  557 | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/description/)  | [LeetCode557.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode557.java)  |
+|  561 | [数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/description/)  | [LeetCode561.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode561.java)  |
+|  566 | [重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/description/)  | [LeetCode566.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode566.java)  |
+|  572 | [另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/description/)  | [LeetCode572.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode572.java)  |
+|  575 | [分糖果](https://leetcode-cn.com/problems/distribute-candies/description/)  | [LeetCode575.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode575.java)  |
+|  594 | [最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/description/)  | [LeetCode594.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode594.java)  |
+|  599 | [两个列表的最小索引总和](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/description/)  | [LeetCode599.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode599.java)  |
+|  605 | [种花问题](https://leetcode-cn.com/problems/can-place-flowers/description/)  | [LeetCode605.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode605.java)  |
+|  628 | [三个数的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/description/)  | [LeetCode628.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode628.java)  |
+|  637 | [二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/description/)  | [LeetCode637.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode637.java)  |
+|  643 | [子数组最大平均数 I](https://leetcode-cn.com/problems/maximum-average-subarray-i/description/)  | [LeetCode643.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode643.java)  |
+|  645 | [错误的集合](https://leetcode-cn.com/problems/set-mismatch/description/)  | [LeetCode645.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode645.java)  |
