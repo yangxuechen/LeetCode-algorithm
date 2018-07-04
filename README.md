@@ -1,7 +1,7 @@
 # LeetCode-algorithm
 LeetCode上算法题的代码
-## LeetCode
-###Easy
+
+### Easy
 
 |  no  |  title  |  solution  |
 |------|------|-------------|
