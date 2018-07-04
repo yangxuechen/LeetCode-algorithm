@@ -8,6 +8,15 @@ LeetCode上算法题的代码
 |   1  |  [两数之和](https://leetcode-cn.com/problems/two-sum/description/)   |   [LeetCode1.cpp](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/leetCode_1.cpp)     |
 |   13  |  [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/description/)  |  [LeetCode13.cpp](https://github.com/yangxuechen/LeetCode-algorithm/commit/e27c13973f98d3a743422c26f9a257ddfa73a371)  |
 |14    |  [最长公共前缀](https://leetcode-cn.com/problems/two-sum/description/)|[LeetCode14.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/957fe557af06cf38482dec2acaa1d4aaa4ef92b9)|
+|   20  |  [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/description/)  |  [LeetCode20.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/Demo2.java)  |
+|  21   |  [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/description/)  |  [LeetCode21.cpp](https://github.com/yangxuechen/LeetCode-algorithm/commit/a732357bc804aaefe564db35efd69b63ab32aa37)  |
+|   26  |  [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/)  |  [LeetCode26.cpp](https://github.com/yangxuechen/LeetCode-algorithm/commit/90b6a8473e5e5f5a116a23fc524282ba26bc942c)  |
+|   27  |  [移除元素](https://leetcode-cn.com/problems/remove-element/description/)  |  [LeetCode27.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/Demo6.java)  |
+|   28  |  [实现strStr()](https://leetcode-cn.com/problems/implement-strstr/description/)  |  [LeetCode28.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/Demo7.java)  |
+|   35    |  [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/description/)   |  [LeetCode35.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/Demo8.java)   |
+|   58    |  [最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/description/)   |  [LeetCode58.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/Demo9.java)   |
+|    66   |  [加一](https://leetcode-cn.com/problems/plus-one/description/)   |  [LeetCode66.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/Demo10.java)   |
+|    67   |  [二进制求和](https://leetcode-cn.com/problems/add-binary/description/)   |  [LeetCode67.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/Demo11.java)   |
 |70|[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/description/)|[LeetCode70.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/088cbd47a4b7e273a425d546eaaaf83f8bf37316)|
 |83|[删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/description/)|[LeetCode83.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/2446a5de65ef190d4edc989fd8db71758c515c5f)|
 |104|[二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/description/)|[LeetCode104.java](https://github.com/yangxuechen/LeetCode-algorithm/commit/e7db4f13da2ea503504a684417ba4cbeed706026)|
