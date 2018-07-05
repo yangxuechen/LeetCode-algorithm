@@ -13,7 +13,7 @@ public class LeetCode657 {
         }
 	}
     public static boolean judgeCircle(String moves) {
-        int x=0,y=0;   //定义坐标位置
+        int x=0,y=0;   //瀹氫箟鍘熺偣鍧愭爣
         for(char c:moves.toCharArray()) {
         	if(c=='R') {
         		y++;
