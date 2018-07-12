@@ -85,3 +85,4 @@ LeetCode上算法题的代码
 |674| [最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/description/)  | [LeetCode674.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode674.java)  |
 | 680 |  [验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/description/)  | [LeetCode680.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode680.java) |
 | 682 | [棒球比赛](https://leetcode-cn.com/problems/baseball-game/description/) | [LeetCode682.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode682.java)| 
+| 686 | [重复叠加字符串匹配](https://leetcode-cn.com/problems/repeated-string-match/description/) | [LeetCode686.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode686.java) |
