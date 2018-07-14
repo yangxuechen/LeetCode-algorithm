@@ -88,3 +88,4 @@ LeetCode上算法题的代码
 | 686 | [重复叠加字符串匹配](https://leetcode-cn.com/problems/repeated-string-match/description/) | [LeetCode686.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode686.java) |
 |690 | [员工的重要性](https://leetcode-cn.com/problems/employee-importance/description/) | [LeetCode690.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode690.java) |
 | 693 | [交替位二进制数](https://leetcode-cn.com/problems/binary-number-with-alternating-bits/description/) | [LeetCode693.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode693.java) |
+| 696 | [计数二进制子串](https://leetcode-cn.com/problems/count-binary-substrings/description/) | [LeetCode696.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode696.java) |
