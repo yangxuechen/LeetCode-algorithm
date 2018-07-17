@@ -91,4 +91,5 @@ LeetCode上算法题的代码
 | 696 | [计数二进制子串](https://leetcode-cn.com/problems/count-binary-substrings/description/) | [LeetCode696.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode696.java) |
 |709 | [ 转换成小写字母](https://leetcode-cn.com/problems/to-lower-case/description/) | [LeetCode709.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode709.java) |
 | 717 | [1比特与2比特字符](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/description/) | [LeetCode717.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode717.java) |
+| 724 | [寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index/description/) | [LeetCode724.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode724.java) |
 | 728 | [自除数](https://leetcode-cn.com/problems/self-dividing-numbers/description/) | [LeetCode728.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode728.java) |
