@@ -93,3 +93,4 @@ LeetCode上算法题的代码
 | 717 | [1比特与2比特字符](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/description/) | [LeetCode717.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode717.java) |
 | 724 | [寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index/description/) | [LeetCode724.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode724.java) |
 | 728 | [自除数](https://leetcode-cn.com/problems/self-dividing-numbers/description/) | [LeetCode728.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode728.java) |
+| 744 | [寻找比目标字母大的最小字母](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/description/) | [LeetCode744.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode744.java) |
