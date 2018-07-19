@@ -95,3 +95,4 @@ LeetCode上算法题的代码
 | 728 | [自除数](https://leetcode-cn.com/problems/self-dividing-numbers/description/) | [LeetCode728.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode728.java) |
 | 744 | [寻找比目标字母大的最小字母](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/description/) | [LeetCode744.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode744.java) |
 | 746 | [ 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/description/) | [LeetCode746.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode746.java) |
+| 747 | [至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/description/) | [LeetCode747.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode747.java) |
