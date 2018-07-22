@@ -96,3 +96,4 @@ LeetCode上算法题的代码
 | 744 | [寻找比目标字母大的最小字母](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/description/) | [LeetCode744.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode744.java) |
 | 746 | [ 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/description/) | [LeetCode746.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode746.java) |
 | 747 | [至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/description/) | [LeetCode747.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode747.java) |
+| 762 | [二进制表示中质数个计算置位](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/description/) | [LeetCode762.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode762.java) |
