@@ -98,3 +98,4 @@ LeetCode上算法题的代码
 | 747 | [至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/description/) | [LeetCode747.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode747.java) |
 | 762 | [二进制表示中质数个计算置位](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/description/) | [LeetCode762.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode762.java) |
 | 766 | [托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/description/) | [LeetCode766.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode766.java) |
+| 771 | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/description/) | [LeetCode771.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode771.java) |
