@@ -99,3 +99,4 @@ LeetCode上算法题的代码
 | 762 | [二进制表示中质数个计算置位](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/description/) | [LeetCode762.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode762.java) |
 | 766 | [托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/description/) | [LeetCode766.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode766.java) |
 | 771 | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/description/) | [LeetCode771.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode771.java) |
+| 783 | [二叉搜索树结点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/description/) | [LeetCode783.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode783.java) |
