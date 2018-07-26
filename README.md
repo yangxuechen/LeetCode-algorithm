@@ -102,3 +102,4 @@ LeetCode上算法题的代码
 | 771 | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/description/) | [LeetCode771.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode771.java) |
 | 783 | [二叉搜索树结点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/description/) | [LeetCode783.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode783.java) |
 | 788 | [旋转数字](https://leetcode-cn.com/problems/rotated-digits/description/) | [LeetCode788.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode788.java) |
+| 796 | [旋转字符串](https://leetcode-cn.com/problems/rotate-string/description/) | [LeetCode796.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode796.java) |
