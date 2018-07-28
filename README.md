@@ -104,3 +104,4 @@ LeetCode上算法题的代码
 | 788 | [旋转数字](https://leetcode-cn.com/problems/rotated-digits/description/) | [LeetCode788.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode788.java) |
 | 796 | [旋转字符串](https://leetcode-cn.com/problems/rotate-string/description/) | [LeetCode796.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode796.java) |
 | 804 | [唯一摩尔斯密码词](https://leetcode-cn.com/problems/unique-morse-code-words/description/) | [LeetCode804.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode804.java) |
+| 806 | [写字符串需要的行数](https://leetcode-cn.com/problems/number-of-lines-to-write-string/description/) | [LeetCode806.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode806.java) |
