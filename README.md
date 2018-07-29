@@ -107,3 +107,4 @@ LeetCode上算法题的代码
 | 806 | [写字符串需要的行数](https://leetcode-cn.com/problems/number-of-lines-to-write-string/description/) | [LeetCode806.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode806.java) |
 | 811 | [子域名访问计数](https://leetcode-cn.com/problems/subdomain-visit-count/description/) | [LeetCode811.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode811.java) |
 | 819 | [最常见的单词](https://leetcode-cn.com/problems/most-common-word/description/) | [LeetCode819.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode819.java) |
+| 821 | [字符的最短距离](https://leetcode-cn.com/problems/shortest-distance-to-a-character/description/) | [LeetCode821.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode821.java) |
