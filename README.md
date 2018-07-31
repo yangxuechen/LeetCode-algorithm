@@ -110,3 +110,4 @@ LeetCode上算法题的代码
 | 821 | [字符的最短距离](https://leetcode-cn.com/problems/shortest-distance-to-a-character/description/) | [LeetCode821.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode821.java) |
 | 824 | [山羊拉丁文](https://leetcode-cn.com/problems/goat-latin/description/) | [LeetCode824.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode824.java) |
 | 830 | [较大分组的位置](https://leetcode-cn.com/problems/positions-of-large-groups/description/) | [LeetCode830.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode830.java) |
+| 832 | [翻转图像](https://leetcode-cn.com/problems/flipping-an-image/description/) | [LeetCode832.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode832.java) |
