@@ -113,3 +113,4 @@ LeetCode上算法题的代码
 | 832 | [翻转图像](https://leetcode-cn.com/problems/flipping-an-image/description/) | [LeetCode832.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode832.java) |
 | 844 | [比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/description/) | [LeetCode844.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode844.java) |
 | 849 | [到最近的人的最大距离](https://leetcode-cn.com/problems/maximize-distance-to-closest-person/description/) | [LeetCode849.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode849.java) |
+| 852 | [山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/description/) | [LeetCode852.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode852.java) |
