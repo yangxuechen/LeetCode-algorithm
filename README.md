@@ -115,3 +115,4 @@ LeetCode上算法题的代码
 | 849 | [到最近的人的最大距离](https://leetcode-cn.com/problems/maximize-distance-to-closest-person/description/) | [LeetCode849.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode849.java) |
 | 852 | [山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/description/) | [LeetCode852.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode852.java) |
 | 859 | [亲密字符串](https://leetcode-cn.com/problems/buddy-strings/description/) | [LeetCode859.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode859.java) |
+| 860 | [柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/description/) | [LeetCode860.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode860.java) |
