@@ -117,3 +117,4 @@ LeetCode上算法题的代码
 | 859 | [亲密字符串](https://leetcode-cn.com/problems/buddy-strings/description/) | [LeetCode859.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode859.java) |
 | 860 | [柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/description/) | [LeetCode860.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode860.java) |
 | 867 | [转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/description/) | [LeetCode867.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode867.java) |
+| 876 | [链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/description/) | [LeetCode876.java](https://github.com/yangxuechen/LeetCode-algorithm/blob/master/LeetCode1/LeetCode876.java) |
